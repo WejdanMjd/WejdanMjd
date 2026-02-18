@@ -67,6 +67,5 @@ Developed ML and Deep Learning models for detecting fake news with high accuracy
 
 ---
 
-## ✨ Favorite Quote
-“If you ask God to win a marathon, he will send you a pair of shoes, not a medal.”  
-— Wejdan (@WejdanMajid)
+![Second Profile GIF](https://github.com/WejdanMjd/WejdanMjd/raw/main/gitprofil2.gif)
+

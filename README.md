@@ -1,7 +1,4 @@
 # Hi, I'm Wejdan 👋
-
-![My GitHub Profile GIF](https://github.com/WejdanMjd/WejdanMjd/raw/main/gitprofile.gif)
-
 AI Engineer passionate about building intelligent systems that create real-world impact — especially in sustainability and environmental innovation.
 
 📍 Saudi Arabia  
@@ -11,6 +8,7 @@ AI Engineer passionate about building intelligent systems that create real-world
 💼 Open to research collaborations & AI opportunities  
 
 ---
+![My GitHub Profile GIF](https://github.com/WejdanMjd/WejdanMjd/raw/main/gitprofile.gif)
 
 ## 🚀 About Me
 - 🎓 Bachelor's in Management Information Systems (GPA: 3.6/4.0) | Taif University  

@@ -14,7 +14,8 @@ AI Engineer passionate about building intelligent systems that create real-world
 - 🎓 Bachelor's in Management Information Systems (GPA: 3.6/4.0) | Taif University  
 - 📚 KAUST Academy – AI Specialization  
 - 🤖 AI Engineering Bootcamp – Saudi Digital Academy  
-- 👩‍🔬 KAUST Academy – Women in STEM Program  
+- 👩‍🔬 KAUST Academy – Women in STEM Program
+- ❄️ MENA ML Winter School 2026
 - 🌍 Passionate about applying AI for environmental and water sustainability  
 - 📍 Based in Saudi Arabia
 

@@ -1,4 +1,7 @@
 ![My GitHub Profile GIF](https://github.com/WejdanMjd/WejdanMjd/raw/main/3rd_pinkgif.gif)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WejdanMjd&label=Views&color=ffc2d1&style=flat" />
+</p>
 
 # **Hi, I'm Wejdan** 👋
 AI Engineer passionate about building intelligent systems that create real-world impact — especially in sustainability and environmental innovation.

@@ -85,9 +85,6 @@ Developed ML and Deep Learning models for detecting fake news with high accuracy
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WejdanMjd&hide_border=false&background=fff7fb&ring=ffb3c6&fire=ffd166&currStreakLabel=ff8fab&sideLabels=6d6875&dates=6d6875&border=fde2e4)<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WejdanMjd&layout=compact&bg_color=fff7fb&title_color=ff8fab&text_color=6d6875&border_color=fde2e4">
-## 📈 Current Focus
-- AI for Water & Desert Sustainability  
-- Intelligent Decision Support Systems
 
 ---
 

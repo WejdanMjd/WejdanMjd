@@ -6,11 +6,26 @@ AI Engineer passionate about building intelligent systems that create real-world
 📍 Saudi Arabia  
 #### 📫 How to reach me:
 <p align="center">
-  <a href="mailto:wejdanmjd@gmail.com"><b>✦ Email</b></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/wejdanmajid"><b>✦ LinkedIn</b></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/WejdanMajid"><b>✦ X</b></a>
+
+<a href="mailto:wejdanmjd@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail.png" width="20"/> 
+  <span>wejdanmjd@gmail.com</span>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/wejdanmajid">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="20"/> 
+  <span>linkedin.com/in/wejdanmajid</span>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/WejdanMajid">
+  <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="20"/> 
+  <span>x.com/WejdanMajid</span>
+</a>
+
 </p>
 
 💼 Open to research collaborations & AI opportunities

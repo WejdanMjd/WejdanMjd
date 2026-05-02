@@ -80,21 +80,11 @@ Developed ML and Deep Learning models for detecting fake news with high accuracy
 
 ## 📊 GitHub Stats
 
-<!-- 📊 Account Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WejdanMjd&show_icons=true&bg_color=fff7fb&title_color=ff8fab&text_color=6d6875&icon_color=ffd166&hide_border=true" width="500"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=WejdanMjd&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=fff7fb&title_color=ff8fab&text_color=6d6875&icon_color=ffd166&border_color=fde2e4)<br/>
 
-<!-- 🔥 Streak (أكبر) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=WejdanMjd&background=fff7fb&ring=ffb3c6&fire=ffd166&currStreakLabel=ff8fab&sideLabels=6d6875&dates=6d6875&hide_border=true" width="650"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WejdanMjd&hide_border=false&background=fff7fb&ring=ffb3c6&fire=ffd166&currStreakLabel=ff8fab&sideLabels=6d6875&dates=6d6875&border=fde2e4)<br/>
 
-<!-- 💻 Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WejdanMjd&layout=compact&bg_color=fff7fb&title_color=ff8fab&text_color=6d6875&hide_border=true" width="400"/>
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WejdanMjd&layout=compact&bg_color=fff7fb&title_color=ff8fab&text_color=6d6875&border_color=fde2e4">
 ## 📈 Current Focus
 - AI for Water & Desert Sustainability  
 - Intelligent Decision Support Systems

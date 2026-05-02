@@ -1,4 +1,5 @@
-![My GitHub Profile GIF](https://github.com/WejdanMjd/WejdanMjd/raw/main/gitprofile.gif)
+![My GitHub Profile GIF](https://github.com/WejdanMjd/WejdanMjd/raw/main/pinkgit.gif)
+
 # **Hi, I'm Wejdan** 👋
 AI Engineer passionate about building intelligent systems that create real-world impact — especially in sustainability and environmental innovation.
 

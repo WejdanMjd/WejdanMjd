@@ -7,13 +7,13 @@ AI Engineer passionate about building intelligent systems that create real-world
 #### 📫 How to reach me:
 <p align="center">
   <a href="mailto:wejdanmjd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    📧 Email
+  </a> • 
   <a href="https://www.linkedin.com/in/wejdanmajid">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    💼 LinkedIn
+  </a> • 
   <a href="https://x.com/WejdanMajid">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    🐦 X
   </a>
 </p>
 

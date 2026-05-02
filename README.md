@@ -3,7 +3,6 @@
 # **Hi, I'm Wejdan** 👋
 AI Engineer passionate about building intelligent systems that create real-world impact — especially in sustainability and environmental innovation.
 
-📍 Saudi Arabia  
 #### 📫 How to reach me:
 
 
@@ -79,10 +78,30 @@ Developed ML and Deep Learning models for detecting fake news with high accuracy
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=WejdanMjd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WejdanMjd&theme=dark&hide_border=false)<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WejdanMjd&theme=radical">
+![](https://github-readme-stats.vercel.app/api?username=WejdanMjd
+&show_icons=true
+&bg_color=fff7fb
+&title_color=ff8fab
+&text_color=6d6875
+&icon_color=ffd166
+&border_color=fde2e4)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=WejdanMjd
+&background=fff7fb
+&ring=ffb3c6
+&fire=ffd166
+&currStreakLabel=ff8fab
+&sideLabels=6d6875
+&dates=6d6875)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WejdanMjd
+&layout=compact
+&bg_color=fff7fb
+&title_color=ff8fab
+&text_color=6d6875
+&border_color=fde2e4">
 
 
 ## 📈 Current Focus

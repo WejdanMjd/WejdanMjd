@@ -6,24 +6,26 @@ AI Engineer passionate about building intelligent systems that create real-world
 📍 Saudi Arabia  
 #### 📫 How to reach me:
 
+
 <p align="center">
+  <a href="mailto:wejdanmjd@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" width="22" style="vertical-align:middle;"/>
+  </a>
+  <span style="vertical-align:middle;"> wejdanmjd@gmail.com </span>
+</p>
 
-<a href="mailto:wejdanmjd@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail.png" width="20"/> Email
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wejdanmajid">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="22" style="vertical-align:middle;"/>
+  </a>
+  <span style="vertical-align:middle;"> linkedin.com/in/wejdanmajid </span>
+</p>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/wejdanmajid">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="20"/> LinkedIn
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/WejdanMajid">
-  <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="20"/> X
-</a>
-
+<p align="center">
+  <a href="https://x.com/WejdanMajid">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="22" style="vertical-align:middle;"/>
+  </a>
+  <span style="vertical-align:middle;"> x.com/WejdanMajid </span>
 </p>
 
 💼 Open to research collaborations & AI opportunities

@@ -80,12 +80,19 @@ Developed ML and Deep Learning models for detecting fake news with high accuracy
 
 ## 📊 GitHub Stats
 
+<!-- 📊 Account Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WejdanMjd&show_icons=true&bg_color=fff7fb&title_color=ff8fab&text_color=6d6875&icon_color=ffd166&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WejdanMjd&show_icons=true&bg_color=fff7fb&title_color=ff8fab&text_color=6d6875&icon_color=ffd166&hide_border=true" width="500"/>
+</p>
 
-  <img src="https://streak-stats.demolab.com?user=WejdanMjd&background=fff7fb&ring=ffb3c6&fire=ffd166&currStreakLabel=ff8fab&sideLabels=6d6875&dates=6d6875&hide_border=true" height="160"/>
+<!-- 🔥 Streak (أكبر) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WejdanMjd&background=fff7fb&ring=ffb3c6&fire=ffd166&currStreakLabel=ff8fab&sideLabels=6d6875&dates=6d6875&hide_border=true" width="650"/>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WejdanMjd&layout=compact&bg_color=fff7fb&title_color=ff8fab&text_color=6d6875&hide_border=true" height="160"/>
+<!-- 💻 Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WejdanMjd&layout=compact&bg_color=fff7fb&title_color=ff8fab&text_color=6d6875&hide_border=true" width="400"/>
 </p>
 
 ## 📈 Current Focus

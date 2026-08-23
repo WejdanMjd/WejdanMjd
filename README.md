@@ -30,7 +30,6 @@ AI Engineer passionate about building intelligent systems that create real-world
   <span style="vertical-align:middle;"> x.com/WejdanMajid </span>
 </p>
 
-💼 Open to research collaborations & AI opportunities
 ---
 
 ## 🚀 About Me

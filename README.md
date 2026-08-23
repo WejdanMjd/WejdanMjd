@@ -39,28 +39,8 @@ AI Engineer passionate about building intelligent systems that create real-world
 - 🤖 AI Engineering Bootcamp – Saudi Digital Academy  
 - 👩‍🔬 KAUST Academy – Women in STEM Program
 - ❄️ MENA ML Winter School 2026
-- 🌍 Passionate about applying AI for environmental and water sustainability  
+- 🔬 Interested in applying AI and statistical methods to scientific problems.
 - 📍 Based in Saudi Arabia
-
----
-
-## 🔬 Featured Projects
-
-### 🏜️ RimalAI – Saudi Culture Assistant
-AI-powered assistant providing information about Saudi culture, landmarks, and heritage using LLMs, voice interaction, and mapping services.  
-🔗 [View Project](https://github.com/WejdanMjd/Chatbot_RimalAI)
-
-### 🐾 Project-1: Deep Learning Image Classification with CNN
-Implemented image classification using Convolutional Neural Networks (CNN).  
-🔗 [View Project](https://github.com/WejdanMjd/Project-1-Deep-Learning-Image-Classification-with-CNN)
-
-### 📝 Project-NLP
-Natural Language Processing project exploring text analysis and model applications.  
-🔗 [View Project](https://github.com/WejdanMjd/Project-NLP)
-
-### 📰 Fake News Detection System
-Developed ML and Deep Learning models for detecting fake news with high accuracy.  
-🔗 [View Project](https://github.com/WejdanMjd/Fake_News_Detection_Final)
 
 ---
 
